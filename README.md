@@ -16,4 +16,4 @@ Apache 2.0
 
 ### Tests
 
-Tests have not been added due to the time limitations
+Junit Tests have been added
