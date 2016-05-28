@@ -102,8 +102,8 @@ public class Parser {
 			outlist.add(header);
 		}
 		
-		outlist.add("</html>");
 		outlist.add("</body>");
+		outlist.add("</html>");
 		
 		return outlist;
 	}
